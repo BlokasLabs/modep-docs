@@ -1,11 +1,10 @@
+* [Introduction](index)
 * [[Advanced]]
-* [[Burn]]
+* [Burn MODEP Image](burn)
 * [[Changelog]]
 * [[contributors]]
-* [[faq]]
-* [[Home]]
-* [[index]]
-* [[pisound]]
+* [[FAQ]]
+* [[Pisound]]
 * [[plugins]]
 * [Running MODEP](Running-MODEP)
 * [[soundcard]]
