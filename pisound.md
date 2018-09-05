@@ -1,0 +1,19 @@
+# MODEP and Pisound Sound Card
+## The Pisound’s Button
+
+Here is the list of functions you can achieve using Pisound’s button.
+
+| **Interaction**              | **Action**                                                                                                                 |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Click betwen 1 and 8 times   | Load the pedalboard from the first bank on your list at index corresponding to the number of clicks (see the image below). |
+| Hold between 1 and 3 seconds | Toggle Bluetooth discoverability on/off. On state automatically times out in 3 minutes.                                    |
+| Hold between 3 and 5 seconds | Turn Wi-Fi hotspot mode on/off.                                                                                            |
+| Hold between 5 and 7 seconds | Turn your Raspberry Pi off.                                                                                                |
+
+
+
+![modep-banks](https://raw.githubusercontent.com/wiki/BlokasLabs/pisound-docs/images/modep-banks.PNG)
+
+## Pisound Mobile App
+
+TBA
