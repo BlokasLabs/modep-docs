@@ -31,4 +31,4 @@ If this fails, then try restarting the MODEP software:
     1. Turn down 'GAIN' knob until the Clip LED no longer gets turned on. If the 'GAIN' is at minimum, turn down the output volume of the device connected to your card’s Audio Input.
 1. If you still get distorted sound after above is resolved:
     1. Check XRUNS-Status at the lower right corner of your browser window.
-1. Try experimenting with [jack](advanced/#advanced-audio-configuration) settings defined in `/usr/lib/systemd/system/jack.service`, in particular the -n, -p, -r values. See [here](faq.md#editing-modep-configuration-files) for instructions on how to edit it.
+1. Try experimenting with [jack](advanced/#advanced-audio-configuration) settings defined in `/usr/lib/systemd/system/jack.service`, in particular the -n, -p, -r values. See [here](FAQ.md#editing-modep-configuration-files) for instructions on how to edit it.
