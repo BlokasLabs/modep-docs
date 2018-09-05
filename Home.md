@@ -7,6 +7,6 @@
 * [[index]]
 * [[pisound]]
 * [[plugins]]
-* [[run]]
+* [Running MODEP](Running-MODEP)
 * [[soundcard]]
 * [[troubleshooting]]
