@@ -1,4 +1,7 @@
 # MODEP and Pisound Sound Card
+
+Pisound is an ultra-low latency high-quality sound card and MIDI interface specially designed for Raspberry Pi pocket computers. You can find more information about Pisound [here](https://blokas.io/pisound).
+
 ## The Pisound’s Button
 
 Here is the list of functions you can achieve using Pisound’s button.
