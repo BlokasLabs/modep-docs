@@ -32,6 +32,6 @@
 * 294 plugins (was 144 before)
 * mDNS enabled by default
 
-## 2017-11-28
+## 2017-04-23
 
 * Initial MODEP version released
