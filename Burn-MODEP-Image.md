@@ -9,15 +9,15 @@
 
 **Windows**
 
-Download Etcher from [https://etcher.io/2](https://etcher.io/2). Double-click the *.exe file in Windows and follow the Etcher setup wizard. Run Etcher in Administrator Mode: right-click on Etcher and choose ‘Run as administrator’.
+Download Etcher from [https://etcher.io/](https://etcher.io/). Double-click the *.exe file in Windows and follow the Etcher setup wizard. Run Etcher in Administrator Mode: right-click on Etcher and choose ‘Run as administrator’.
 
 **macOS**
 
-Download Etcher from [https://etcher.io/2](https://etcher.io/2). Drag the Etcher app to your Applications folder on a Mac and double-click to open it.
+Download Etcher from [https://etcher.io/](https://etcher.io/). Drag the Etcher app to your Applications folder on a Mac and double-click to open it.
 
 **Linux**
 
-Download the AppImage file from [https://etcher.io/2](https://etcher.io/2). App Images are self-contained runtimes that do not require manual installation or root. They will run on pretty much every distro out there. After the download is complete, double-click the image to run it.
+Download the AppImage file from [https://etcher.io/](https://etcher.io/). App Images are self-contained runtimes that do not require manual installation or root. They will run on pretty much every distro out there. After the download is complete, double-click the image to run it.
 
 ## Step 02: Download MODEP image
 Download a prebuilt MODEP OS image from [here](https://blokas.io/modep/latest). If the image comes in *.zip format, unzip the file after it has downloaded. Double-click the file on Mac or Linux (or use unzip in a terminal window). In Windows, right-click the file and choose Extract All.
