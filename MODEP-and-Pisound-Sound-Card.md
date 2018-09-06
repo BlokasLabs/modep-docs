@@ -24,4 +24,4 @@ Run the Pisound App, head into the Scan menu, and pair up with MODEP.
 
 Afterwards, in the Collections screen you should see MODEP category, and it will have a list of pedalboards that are added in the very first Bank in MOD UI.
 
-![pisound-app](https://raw.githubusercontent.com/wiki/BlokasLabs/modep/images/modep-pisound-app.png)
+![pisound-app](https://raw.githubusercontent.com/wiki/BlokasLabs/modep/images/modep-pisound-app2.png)
