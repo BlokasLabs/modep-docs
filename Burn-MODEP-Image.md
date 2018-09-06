@@ -20,7 +20,7 @@ Download Etcher from [https://etcher.io/2](https://etcher.io/2). Drag the Etcher
 Download the AppImage file from [https://etcher.io/2](https://etcher.io/2). App Images are self-contained runtimes that do not require manual installation or root. They will run on pretty much every distro out there. After the download is complete, double-click the image to run it.
 
 ## Step 02: Download MODEP image
-Download a prebuilt MODEP OS image from [here](https://community.blokas.io/t/release-modep-2018-04-03/496). If the image comes in *.zip format, unzip the file after it has downloaded. Double-click the file on Mac or Linux (or use unzip in a terminal window). In Windows, right-click the file and choose Extract All.
+Download a prebuilt MODEP OS image from [here](https://blokas.io/modep/latest). If the image comes in *.zip format, unzip the file after it has downloaded. Double-click the file on Mac or Linux (or use unzip in a terminal window). In Windows, right-click the file and choose Extract All.
 
 ## Step 03: Select the image
 Launch Etcher. Click Select Image button. Use the file manager window to locate the image you unzipped in the previous step. Click Open. The image will appear under Select Image, and Connect a drive will highlight red.
