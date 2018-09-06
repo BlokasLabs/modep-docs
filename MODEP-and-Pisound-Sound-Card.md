@@ -16,4 +16,12 @@ Here is the list of functions you can achieve using Pisound’s button.
 
 ## Pisound Mobile App
 
-TBA
+You can use the Pisound App to switch the pedalboards. Get the App [here](https://blokas.io/pisound/docs/Pisound-App/#android). The `pisound-ctl` is pre-installed in the MODEP image.
+
+First you have to [pair](https://blokas.io/pisound/docs/Pisound-App/#connecting-to-the-raspberry-pi) your mobile device and MODEP - hold down the Pisound Button between 1 and 2 seconds to toggle Bluetooth Discoverability. While the device is in discoverable mode, the MIDI IN/OUT LEDs will keep flashing, and after 180 seconds the discoverable mode will be automatically turned off.
+
+Run the Pisound App, head into the Scan menu, and pair up with MODEP.
+
+Afterwards, in the Collections screen you should see MODEP category, and it will have a list of pedalboards that are added in the very first Bank in MOD UI.
+
+![pisound-app](https://raw.githubusercontent.com/wiki/BlokasLabs/modep/images/modep-pisound-app.png)
