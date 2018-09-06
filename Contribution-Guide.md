@@ -1,9 +1,8 @@
 # Contribution Guide
 
-## 'modep' Build Instructions
+## Building MODEP image
 
-TBA
-
+See the build steps [here](https://github.com/BlokasLabs/modep/blob/modep/README.md#building-modep-image).
 
 ## Adding Additional Plugins
 
