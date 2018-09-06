@@ -11,4 +11,4 @@ If you are using a different sound card, connect to your Raspberry Pi via SSH fo
 5. Hit Ctrl+X to close, press 'Y' to confirm saving your changes
 6. Type `sudo reboot` and press Enter to restart the system
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_065861E88B4BC6E5846F284C5C9C3ACB680E7A1FD270C563898A163606732A5E_1534806168175_image.png)
+![modep-card-info](https://raw.githubusercontent.com/wiki/BlokasLabs/modep/images/modep-card-info.png)

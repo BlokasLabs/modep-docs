@@ -2,7 +2,7 @@
 
 ## Creating Pedalboards
 
-![modep-default](https://raw.githubusercontent.com/wiki/BlokasLabs/pisound-docs/images/modep-default.png)
+![modep-default](https://raw.githubusercontent.com/wiki/BlokasLabs/modep/images/modep-default.png)
 
 - Mount your freshly baked SD card to your Pi and power it up.
 - Connect to it via “**MODEP”** Wi-Fi hotspot using your computer or tablet (**psw:blokaslabs**).
