@@ -13,6 +13,10 @@
 
 > **Note:** Jack service is running as 'root' user, in case you'd like to manually run jack_capture or other jack utils, it should be done as 'root' too.
 
+## TouchOSC clients
+
+You may use [TouchOSC](https://hexler.net/software/touchosc) compatible clients on mobile devices to MIDI-map pedal controls. You must be connected to the MODEP WiFi, and use `172.24.1.1` for the TouchOSC Bridge IP (Host IP) in the App's settings.
+
 ## MOD Documentation
 
 You can find extensive MOD Documentation on MOD Devices website: https://wiki.moddevices.com/wiki/Manual
