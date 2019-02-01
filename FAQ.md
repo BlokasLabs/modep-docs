@@ -15,7 +15,7 @@
 
 **Option 02: Using Windows computer**
 
-1. Download and install PuTTY software from https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html2
+1. Download and install PuTTY software from https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 1. Connect your computer to the same Network as Raspberry Pi
 1. Launch PuTTY client
 1. Enter the IP address from the previous step and click Open
