@@ -4,11 +4,13 @@ If you are using the Pisound sound card, you can skip this step. MODEP image com
 
 If you are using a different sound card, connect to your Raspberry Pi via SSH following [this guide](faq#connecting-to-raspberry-pi-via-ssh) and complete the steps below in a terminal window to set your card as a default one:
 
-1. Open a terminal window and enter `aplay -l`
-2. Copy name of the sound card after ‘:' and before ‘[‘, for example `QUADCAPTURE`
-3. Type `sudo nano /usr/lib/systemd/system/jack.service` and press Enter to edit the Jack service file
-4. Replace `hw:pisound` with `hw:QUADCAPTURE` (Change `QUADCAPTURE` to the name of your sound card)
-5. Hit Ctrl+X to close, press 'Y' to confirm saving your changes
-6. Type `sudo reboot` and press Enter to restart the system
+1. Open a terminal window
+1. Disable pisound-ctl service by executing `sudo systemctl disable pisound-ctl.service`
+1. Run `aplay -l`
+1. Copy name of the sound card after ‘:' and before ‘[‘, for example `QUADCAPTURE`
+1. Type `sudo nano /usr/lib/systemd/system/jack.service` and press Enter to edit the Jack service file
+1. Replace `hw:pisound` with `hw:QUADCAPTURE` (Change `QUADCAPTURE` to the name of your sound card)
+1. Hit Ctrl+X to close, press 'Y' to confirm saving your changes
+1. Type `sudo reboot` and press Enter to restart the system
 
 ![modep-card-info](https://raw.githubusercontent.com/wiki/BlokasLabs/modep/images/modep-card-info.png)
