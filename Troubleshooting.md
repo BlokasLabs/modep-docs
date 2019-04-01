@@ -1,5 +1,9 @@
 # Troubleshooting
 
+## Cannot login to hotspot or MODEP
+> Default MODEP OS Login Details: user: modep, password: blokaslabs  
+> Default Wi-Fi Hotspot: SSID: MODEP, password: blokaslabs
+
 ## No Sound Or "Add Device Error" happens
 
 First of all, check input and output cables, volume and gain level.
