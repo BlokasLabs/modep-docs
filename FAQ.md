@@ -2,16 +2,17 @@
 
 ## Connecting to Raspberry Pi via SSH
 
-- Connect to Raspberry Pi via "**MODEP**" Wi-Fi hotspot using your computer or smartphone/tablet (**psw:blokaslabs**) or connect your Raspberry Pi to your local network using an Ethernet cable.
-- If connected via "**MODEP**" Wifi, the IP address is 172.24.1.1, otherwise find out the IP address of your Raspberry Pi following [this guide](faq#determining-the-ip-address-of-your-pi).
+- Connect your Raspberry Pi via the "**MODEP**" Wi-Fi SSID using your computer or smartphone/tablet (**password = `blokaslabs` **) or connect your Raspberry Pi to your local network using an Ethernet cable.
+  - If connected via "**MODEP**" Wifi, the IP address is 172.24.1.1, otherwise find out the IP address of your Raspberry Pi following [this guide](faq#determining-the-ip-address-of-your-pi).
 - Choose one of the following options based on the device you want to control your Pi with
 
-> **Note:** the default username is 'modep' and the default password is 'blokaslabs'
+**Note:** the default username is `modep` and the default password is `blokaslabs`.
 
 **Option 01: Using Linux or macOS computer**
 
-1. Connect your computer to the same Network as Raspberry Pi
+1. Connect your computer to the same network as Raspberry Pi
 1. Open a terminal window and type `ssh modep@IP_ADDRESS` (for the IP_ADDRESS use the IP address from the previous step)
+1. (optional) Edit your `/etc/hosts` file and add `172.24.1.1  modep.local` if you want to use `ssh modep@modep.local`. The IP address may change if you are using ethernet, see above steps for that IP. 
 
 **Option 02: Using Windows computer**
 
