@@ -1,5 +1,13 @@
 # Changelog
 
+## 2020-03-14
+
+* MODEP refactored to be a suite of [Debian packages](https://github.com/BlokasLabs/modep-debs)
+* MODEP now runs as user `modep`, uses shared Jack backend.
+* Built for `buster` Debian release.
+* All plugins updated to whatever was the latest version available
+* MOD software updated to version 1.8.
+
 ## 2018-08-31
 
 ### Overview of the changes:

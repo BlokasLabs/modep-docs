@@ -2,7 +2,7 @@
 
 There's many different layouts of effects possible with very different processing requirements from one to another, so trade-offs between stability and latency have to be made when defining the default audio settings. 
 
-If you'd like to try and achieve a lower latency or more stability (less XRUNs) for your use case, you may try one of alternative configurations out, see [here](faq#editing-modep-configuration-files) for editing instructions.
+If you'd like to try and achieve a lower latency or more stability (less XRUNs) for your use case, you may try one of alternative configurations out, see [here](FAQ.md#editing-configuration-files) for editing instructions.
 
 In a nutshell, the lower the audio buffer (based on -n and -p arguments), the lower is the latency, but also the lower is the stability. Same goes with the higher is the sampling rate (-r, check which values are supported by your sound card, e.g. Pisound supported values are 48000, 96000, 192000). So you have to balance these values to best accommodate your use case.
 
