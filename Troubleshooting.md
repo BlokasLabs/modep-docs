@@ -24,9 +24,9 @@ Try restarting the MODEP software:
     ```
 1. The status should be **'active (running)'**. If it's not, try checking the service logs for any errors:
     ```
-    sudo journalctl -u jack
-    sudo journalctl -u modep-mod-host
-    sudo journalctl -u modep-mod-ui
+    sudo journalctl --unit jack
+    sudo journalctl --unit modep-mod-host
+    sudo journalctl --unit modep-mod-ui
     ```
 
 If any of the service is not running, the UI won't open either. Most common problem is Jack misconfiguration. See (Setup)[Setup.md#configuring-the-sound-card] for information on how to reconfigure Jack.
