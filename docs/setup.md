@@ -28,4 +28,4 @@ If you are using a sound card other than Pisound, you may have to tweak the volu
 
 ## Running It
 
-Now continue with [Running MODEP](Running-MODEP.md). In case of any issues, take a look at [Troubleshooting](Troubleshooting.md).
+Now continue with [Running MODEP](running-modep.md). In case of any issues, take a look at [Troubleshooting](troubleshooting.md).

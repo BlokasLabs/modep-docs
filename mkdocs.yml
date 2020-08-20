@@ -53,11 +53,11 @@ copyright: '&copy; 2020 VILNIAUS BLOKAS UAB'
 
 nav:
 - Introduction: index.md
-- Setup: Setup.md
-- Running MODEP: Running-MODEP.md
-- MODEP & Pisound: MODEP-and-Pisound.md
-- Plugins: Plugins.md
-- Guides & FAQs: FAQ.md
-- Troubleshooting: Troubleshooting.md
-- Contribution Guide: Contribution-Guide.md
-- Changelog: Changelog.md
+- Setup: setup.md
+- Running MODEP: running-modep.md
+- MODEP & Pisound: modep-and-pisound.md
+- Plugins: plugins.md
+- Guides & FAQs: faq.md
+- Troubleshooting: troubleshooting.md
+- Contribution Guide: contribution-guide.md
+- Changelog: changelog.md

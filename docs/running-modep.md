@@ -14,7 +14,7 @@ If your device is connected to the Patchbox WiFi hotspot (default password is **
 
 ///Footnotes Go Here///
 
-Otherwise, your devices must be connected to the same local network, you should [find the IP](FAQ.md#determining-the-ip-address-of-your-pi) of the Raspberry Pi and use it with the http:// prefix. In case of any issues, take a look at [Troubleshooting](Troubleshooting.md).
+Otherwise, your devices must be connected to the same local network, you should [find the IP](faq.md#determining-the-ip-address-of-your-pi) of the Raspberry Pi and use it with the http:// prefix. In case of any issues, take a look at [Troubleshooting](troubleshooting.md).
 
 And that’s it! Now you can start building your pedalboards.
 

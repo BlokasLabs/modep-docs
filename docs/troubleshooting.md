@@ -29,11 +29,11 @@ Try restarting the MODEP software:
     sudo journalctl --unit modep-mod-ui
     ```
 
-If any of the service is not running, the UI won't open either. Most common problem is Jack misconfiguration. See (Setup)[Setup.md#configuring-the-sound-card] for information on how to reconfigure Jack.
+If any of the service is not running, the UI won't open either. Most common problem is Jack misconfiguration. See (Setup)[setup.md#configuring-the-sound-card] for information on how to reconfigure Jack.
 
 ## Distorted Sound
 1. First check if Clip LED on your sound card (if any) is lit up while audio input signal is playing.
 1. If it is:
     1. Turn down 'GAIN' knob until the Clip LED no longer gets turned on. If the 'GAIN' is at minimum, turn down the output volume of the device connected to your card’s Audio Input.
-1. If you still get distorted sound after above is resolved. try experimenting with [Jack](Setup.md#configuring-the-sound-card), in particular the sampling rate, buffer size and period values.
+1. If you still get distorted sound after above is resolved. try experimenting with [Jack](setup.md#configuring-the-sound-card), in particular the sampling rate, buffer size and period values.
 Especially if XRUNs are being reported in the UI.
