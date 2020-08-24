@@ -2,7 +2,7 @@
 
 Pisound is an ultra-low latency high-quality sound card and MIDI interface specially designed for Raspberry Pi pocket computers. It provides some additional features that can be used for complementing the MODEP experience.
 
-You can find more information about Pisound [here](https://blokas.io/pisound).
+You can find more information about Pisound [here](https://blokas.io/pisound/).
 
 ## The Pisound’s Button
 
@@ -21,9 +21,9 @@ Here is the list of functions you can achieve using Pisound’s button.
 
 ## Pisound Mobile App
 
-You can use the Pisound App to switch the pedalboards. Get the App [here](https://blokas.io/pisound/docs/Pisound-App/#android). The `pisound-ctl` is pre-installed in the MODEP image.
+You can use the Pisound App to switch the pedalboards. Get the App [here](https://blokas.io/pisound/docs/pisound-app/#android). The `pisound-ctl` is pre-installed in the MODEP image.
 
-First you have to [pair](https://blokas.io/pisound/docs/Pisound-App/#connecting-to-the-raspberry-pi) your mobile device and MODEP - hold down the Pisound Button between 1 and 2 seconds to toggle Bluetooth Discoverability. While the device is in discoverable mode, the MIDI IN/OUT LEDs will keep flashing, and after 180 seconds the discoverable mode will be automatically turned off.
+First you have to [pair](https://blokas.io/pisound/docs/pisound-app/#connecting-to-the-raspberry-pi) your mobile device and MODEP - hold down the Pisound Button between 1 and 2 seconds to toggle Bluetooth Discoverability. While the device is in discoverable mode, the MIDI IN/OUT LEDs will keep flashing, and after 180 seconds the discoverable mode will be automatically turned off.
 
 Run the Pisound App, head into the Scan menu, and pair up with MODEP.
 
