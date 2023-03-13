@@ -29,7 +29,6 @@ Please feel free to submit pull requests on `modep-debs` repository or submodule
 
 Some useful information for building and developing plugins:
 
-* https://github.com/moddevices/mod-plugin-builder - Build files for many plugins supported by MOD DUO
-* https://github.com/moddevices/mod-lv2-data - modgui UIs for a lot of LV2 plugins
-* https://github.com/moddevices/mod-sdk - modgui development tools
-* http://moddevices.com/ns/modgui/ - modgui lv2 extension specification
+* https://github.com/patchstorage/patchstorage-lv2-builder - Build files for many LV2 plugins
+* https://github.com/patchstorage/patchstorage-lv2-uploader - Publish your plugins
+* https://github.com/moddevices/mod-sdk - Plugin GUI development tools

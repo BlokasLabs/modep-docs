@@ -15,7 +15,7 @@
 * Pisound App can now be used to switch pedalboards
 * `touchosc2midi` integrated by default - connect to MODEP WiFi hotspot and use 172.24.1.1 IP as the destination in TouchOSC compatible software.
 * Realtime kernel
-* OS and MOD DUO updated to latest version available
+* OS and MOD-UI updated to latest version available
 
 ### Detailed changelog:
 

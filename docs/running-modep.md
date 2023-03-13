@@ -18,11 +18,11 @@ Otherwise, your devices must be connected to the same local network, you should 
 
 And that’s it! Now you can start building your pedalboards.
 
-For more information on the MOD-UI follow this link (note that some usage and UI differences may be present): https://wiki.moddevices.com/wiki/MOD_Web_GUI_User_Guide
+For more information on the MOD-UI follow this link (note that some usage and UI differences may be present): https://wiki.mod.audio/wiki/MOD_Web_GUI_User_Guide
 
 ## LV2 Plugins Dir And Other Important Locations
 
-The LV2 Plugins Dir for MODEP is located here: `/usr/modep/lv2/`. After making changes to the directory contents, reload MODEP:
+The LV2 Plugins Dir for MODEP is located here: `/var/modep/lv2/`. After making changes to the directory contents, reload MODEP:
 
 ```
 sudo systemctl restart jack modep-mod-ui
@@ -36,6 +36,6 @@ You may use [TouchOSC](https://hexler.net/software/touchosc) compatible clients 
 
 ## MOD Documentation
 
-You can find extensive MOD Documentation on MOD Devices website: https://wiki.moddevices.com/wiki/Manual
+You can find extensive MOD Documentation on MOD Devices website: https://wiki.mod.audio//wiki/Manual
 
 Some of the features may be disabled or unavailable in MODEP due to differences in the hardware.
